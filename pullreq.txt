@@ -1,1 +1,2 @@
 This is to verify pull request
+This is also to verify merge
